@@ -1,0 +1,28 @@
+                   
+                  /x\
+                 /x x\
+                /x o x\
+               /x x x x\
+              /x x x x x\
+
+0 is a hole equals to 0 i code
+x is a peg equals to 1 in code
+n is non valid equals to 2 in code
+
+triangle
+--------------------------------------------- 
+x n n n n
+x x n n n
+x o x n n
+x x x x n
+x x x x x
+
+english peg
+---------------------------------------------------
+n n x x x n n
+n n x x x n n
+x x x x x x x
+x x x o x x x
+x x x x x x x
+n n x x x n n
+n n x x x n n
